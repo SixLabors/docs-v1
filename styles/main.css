@@ -714,6 +714,10 @@ pre code {
   font-size: 13px;
 }
 
+.contribution {
+  display:none;
+}
+
 .contribution a::before {
   /*Edit*/
   content: "\f044";
